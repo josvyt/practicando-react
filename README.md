@@ -2,7 +2,7 @@
 
 # Proyectos en React
 
-**Proyectos basados en el repositorio de **[@midudev](https://github.com/midudev/aprendiendo-react/)
+**Proyectos basados en el repositorio de** [@midudev](https://github.com/midudev/aprendiendo-react/)
 
 ## Proyectos
 | Número | Proyecto | Código | Web |
