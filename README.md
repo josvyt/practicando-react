@@ -5,8 +5,8 @@
 **Proyectos basados en el repositorio de** [@midudev](https://github.com/midudev/aprendiendo-react/)
 
 ## Proyectos
-| Número | Proyecto | Código | Web |
-| --- | --- | --- | --- |
+| Número | Proyecto | 
+| --- | --- |
 | `01` | Twitter Follow Card |
 | `02` | Tic Tac Toe | 
 | `03` | Mouse Follower | 
